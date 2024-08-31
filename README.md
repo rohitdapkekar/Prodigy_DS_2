@@ -49,8 +49,5 @@ Multivariate analysis extends the exploration to multiple variables simultaneous
 * Age vs. Survived: there might be a slight concentration of younger survivors.
 
 AUTHOR:          
-marwa Osman: marwaosman9975@gmail.com    
-
-👉 [LinkedIn](https://www.linkedin.com/in/marwa-osman-00190b222/)
-
-👉 [GitHub](https://github.com/marwa9975)
+Rohit Dapkekar
+Email - rohitpatil0345@gmail.com
